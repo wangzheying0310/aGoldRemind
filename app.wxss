@@ -1,0 +1,11 @@
+/**app.wxss**/
+/* //wxss * _dark.wxss 是适配深色模式的色彩变量 */
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+} 
